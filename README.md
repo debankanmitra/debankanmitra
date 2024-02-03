@@ -1,3 +1,4 @@
+[![MasterHead](dev.png)]
 <h1 align="center">Hi 👋, I'm Debankan Mitra</h1>
 <h3 align="center">I'm a Full-stack AI developer, immersing myself in the intricacies of Generative AI & Language Models. Exploring the vast landscape of artificial intelligence to build innovative applications. Join me on this journey of coding, learning, and creating in the realm of AI. 🚀</h3>
 
