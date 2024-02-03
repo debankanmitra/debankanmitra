@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debankan Mitra</h1>
 <h3 align="center">I'm a Full-stack AI developer, immersing myself in the intricacies of Generative AI & Language Models. Exploring the vast landscape of artificial intelligence to build innovative applications. Join me on this journey of coding, learning, and creating in the realm of AI. 🚀</h3>
 
-<img align="right" alt="Coding" width="4%" src="giphy.gif">
+<img align="right" alt="Coding" width="40%" src="giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debankanmitra&label=Profile%20views&color=0e75b6&style=flat" alt="debankanmitra" /> </p>
