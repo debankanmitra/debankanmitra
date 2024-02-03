@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debankan Mitra</h1>
 <h3 align="center">I'm a Full-stack AI developer, immersing myself in the intricacies of Generative AI & Language Models. Exploring the vast landscape of artificial intelligence to build innovative applications. Join me on this journey of coding, learning, and creating in the realm of AI. 🚀</h3>
 
-<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>
+<img align="right" alt="Coding" width="400" src="giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debankanmitra&label=Profile%20views&color=0e75b6&style=flat" alt="debankanmitra" /> </p>
