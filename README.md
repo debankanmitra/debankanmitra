@@ -1,4 +1,4 @@
-![MasterHead](banner2.png)
+![MasterHead](banner2_compressed.png)
 <h1 align="center">Hi 👋, I'm Debankan Mitra</h1>
 <h3 align="center">I'm a Full-stack AI developer exploring the vast landscape of artificial intelligence to build innovative applications. 🚀</h3>
 
