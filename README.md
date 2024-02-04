@@ -22,3 +22,15 @@
 <div style="border: 1px solid #000; padding: 2rem; margin-right: 3rem;">
 <h3 align="left">Languages and Tools ></h3>
 <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a><a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>   <a><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a></div>
+
+<div style="border: 1px solid #000; padding: 10px; margin-right: 10px;">
+<h3 align="left">Databases ></h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </div>
+
+<div style="border: 1px solid #000; padding: 10px;">
+<h3 align="left">Devops ></h3>
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*W02WEmR0_JeJXfLWN2zHwQ.png" alt="aws" width="50" height="50"/> <img src="circleci.jpg" alt="circleci" width="50" height="40"/><img src="https://img.icons8.com/dusk/64/000000/console.png" alt="circleci" width="50" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></div> 
+</div>
+
+
+
