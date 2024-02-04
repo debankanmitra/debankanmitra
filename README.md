@@ -21,17 +21,5 @@
 
 <h3 align="left">Languages and Tools ></h3>
 
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></span>   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></span>   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></span>   <span><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></span>   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></span>
-
-<h3 align="left">Databases ></h3>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-
-<h3 align="left">Devops ></h3>
-
-<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*W02WEmR0_JeJXfLWN2zHwQ.png" alt="aws" width="50" height="50"/> <img src="circleci.jpg" alt="circleci" width="50" height="40"/><img src="https://img.icons8.com/dusk/64/000000/console.png" alt="circleci" width="50" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-
-<h3 align="left">ML ></h3>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/><img src="https://av-eks-lekhak.s3.amazonaws.com/media/__sized__/article_images/image_xon2isF-thumbnail_webp-600x300.webp" alt="scikit_learn" width="40" height="40"/> 
+![MasterHead](techstack.jpg)
 
