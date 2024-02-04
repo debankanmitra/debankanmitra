@@ -21,5 +21,5 @@
 
 <h3 align="left">Languages and Tools ></h3>
 
-![MasterHead](techstack.png)
+![MasterHead](techstack_crop.png)
 
