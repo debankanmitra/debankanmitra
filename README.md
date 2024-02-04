@@ -1,19 +1,17 @@
 ![MasterHead](dev.png)
 <h1 align="center">Hi 👋, I'm Debankan Mitra</h1>
-<h3 align="center">I'm a Full-stack AI developer, immersing myself in the intricacies of Generative AI & Language Models. Exploring the vast landscape of artificial intelligence to build innovative applications. Join me on this journey of coding, learning, and creating in the realm of AI. 🚀</h3>
+<h3 align="center">I'm a Full-stack AI developer exploring the vast landscape of artificial intelligence to build innovative applications. 🚀</h3>
 
 <img align="right" alt="Coding" width="40%" src="giphy.gif">
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debankanmitra&label=Profile%20views&color=0e75b6&style=flat" alt="debankanmitra" /> </p>
+<p align="left"> <a href="https://twitter.com/mitra_debankan" target="blank"><img src="https://img.shields.io/twitter/follow/mitra_debankan?logo=twitter&style=for-the-badge" alt="debankanmitra"  </p>
 
 - 💬 Ask me about **Backend Development, CICD, Aws , Generative AI**
 
 - 📫 How to reach me **debankanmitra@gmail.com**
 
-- ⚡ Fun fact **I've discovered the perfect coding playlist that magically boosts my productivity, and yes, it includes a mix of electronic beats and classic rock. 🎧🤘💻**
+- ⚡ Fun fact **I've discovered the perfect coding playlist that magically boosts my productivity. 🎧💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +21,7 @@
 
 <h3 align="left">Languages and Tools --></h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
 <h3 align="left">Databases --></h3>
 
