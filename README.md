@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="![Alt text](image.png)" alt="aws" width="40" height="40"/> 
+<img src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="aws" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
