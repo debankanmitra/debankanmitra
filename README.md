@@ -4,8 +4,7 @@
 
 <!-- <img align="right" alt="Coding" width="40%" src="giphy.gif"> -->
 
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.0.47/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/oxdDay0xaho1mYuR/scene.splinecode"></spline-viewer>
+![Spline 3D Image](https://my.spline.design/molang3dcopy-208f21e64e3f1dd11ce960a5c2d7191e/)
 
 
 
