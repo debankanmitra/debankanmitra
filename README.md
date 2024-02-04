@@ -23,8 +23,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://img.icons8.com/nolan/64/amazon-web-services.png" alt="aws" width="40" height="40"/> 
-<img src="https://d3r49iyjzglexf.cloudfront.net/circleci-logo-stacked-fb-657e221fda1646a7e652c09c9fbfb2b0feb5d710089bb4d8e8c759d37a832694.png" alt="circleci" width="40" height="40"/>
+<img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*W02WEmR0_JeJXfLWN2zHwQ.png" alt="aws" width="40" height="40"/> 
+<img src="circleci.jpg" alt="circleci" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
