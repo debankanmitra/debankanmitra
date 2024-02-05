@@ -1,8 +1,8 @@
-![MasterHead](banner2_compressed.png)
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Debankan Mitra</h1>
 <h3 align="center">I'm a Full-stack AI developer exploring the vast landscape of artificial intelligence to build innovative applications. 🚀</h3>
 
-<img align="right" alt="Coding" width="40%" src="duck_compressed.gif">
+<img align="right" alt="Coding" width="40%" src="duck.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debankanmitra&label=Profile%20views&color=0e75b6&style=flat" alt="debankanmitra" /> </p>
 <p align="left"> <a href="https://twitter.com/mitra_debankan" target="blank"><img src="https://img.shields.io/twitter/follow/mitra_debankan?logo=twitter&style=for-the-badge" alt="debankanmitra"  </p>
