@@ -7,9 +7,9 @@
 
 # Hi I'm Debankan 👋
 <pre>
-I'm a Full-stack developer from <b>Kolkata, India 🇮🇳</b>.
-Presently, I am exploring the landscape of artificial intelligence
-to build innovative applications. 🚀<br>
+    I'm a Full-stack developer from <b>Kolkata, India 🇮🇳</b>.
+Presently, I am exploring the landscape of artificial 
+intelligence to build innovative applications. 🚀<br>
         💬 Feel free to Ask me anything about 
 <b>Backend Development</b>, <b>Devops</b>, <b>Aws</b>, <b>Generative AI.</b>
 </pre>
