@@ -6,11 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debankanmitra&label=Profile%20views&color=0e75b6&style=flat" alt="debankanmitra" /> </p>
 
 # Hi I'm Debankan 👋
-
-I'm a Full-stack developer from <b>Kolkata, India 🇮🇳</b>.<br> 
-Presently, I am exploring the landscape of artificial intelligence to build innovative applications. 🚀<br>
-💬 Feel free to Ask me anything about <b>Backend Development</b>, <b>Devops</b>, <b>Aws</b>, <b>Generative AI.</b>
-
+<pre>
+I'm a Full-stack developer from <b>Kolkata, India 🇮🇳</b>.Presently, I am exploring 
+the landscape of artificial intelligence to build innovative applications. 🚀<br>
+            💬 Feel free to Ask me anything about <b>Backend Development</b>, 
+                            <b>Devops</b>, <b>Aws</b>, <b>Generative AI.</b>
+</pre>
 
 <h2 align="left">🌐 Socials:</h2>
 <p align="left"><a href="https://twitter.com/intent/follow?screen_name=mitra_debankan" target="blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
