@@ -7,8 +7,9 @@
 
 # Hi I'm Debankan 👋
 
-I'm a Full-stack developer from <b>Kolkata, India 🇮🇳</b> , 💬 Ask me about Backend Development, Devops, Aws, Generative AI.
+I'm a Full-stack developer from <b>Kolkata, India 🇮🇳</b><br> 
 Currently i am exploring the vast landscape of artificial intelligence to build innovative applications. 🚀
+💬 Ask me about -  <b>Backend Development</b>, <b>Devops</b>, <b>bAws</b>, <b>Generative AI.</b>
 
 
 <h2 align="left">🌐 Socials:</h2>
@@ -17,5 +18,6 @@ Currently i am exploring the vast landscape of artificial intelligence to build 
 </p>
 
 <h2 align="left">💻 Tech Stack:</h2>
+
 ![MasterHead](techstack.png)
 
